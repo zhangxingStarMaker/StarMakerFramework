@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7654bdc5-9bc6-4426-b57d-c1c37f5b03cd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SkillEditorDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SkillEditorDemo/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffInfo/BuffInfoEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9B9FA26E-8611-4FCB-A20D-A47317E725FE/a9/a87d20e8/SerializeField.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9B9FA26E-8611-4FCB-A20D-A47317E725FE/ba/0c5969c3/FrameDebugger.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.5/Editor/CustomEditors/TrackEditor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Runtime/GameCenter/GameCenter.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/Framework/Component/BuffComponent.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/Framework/Component/BuffHandleComponent.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffData/BuffInfo.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffData/BuffData.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffData/BuffInfoEntity.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/Framework/BuffModuleEntity.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/Framework/Component/BuffPoolComponent.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffInfo/BuffOnExcute.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffInfo/BuffOnExecute.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffInfo/BuffData/BuffData.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffUtility/BuffModuleEnum.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/Framework/Component/BuffControlComponent.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffInfo/BuffInfoEntity.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/NumericModule/Runtime/Component.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/NumericModule/Runtime/Component/NumericComponent.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/NumericModule/Runtime/FrameBase/NumericConstDefine.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/NumericModule/Runtime/BattleNumeric/BattleNumericType.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffInfo/DamageData.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffInfo/DamageInfo.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/SkillModule/Runtime/SkillInfo/SkillModel.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/SkillModule/Runtime/SkillInfo/SkillInfoEntity.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffInfo/BuffData/AddBuffInfoEntity.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffInfo/BuffData/CharacterInfo.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffInfo/BuffData/BuffItem.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffInfo/BuffModel/BuffData.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffInfo/BuffExecute.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/SkillModule/Runtime/Bullet/BulletUtility.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/SkillModule/Runtime/Bullet/Model/BulletModel.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/SkillModule/Runtime/Bullet/BulletInfoEntity.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/SkillModule/Runtime/Bullet/BulletEntity.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/SkillModule/Runtime/Bullet/BulletExecute.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/SkillModule/Runtime/Aoe/AoeModel/AoeModel.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/SkillModule/Runtime/Aoe/AoeInfoEntity.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/SkillModule/Runtime/Aoe/AoeEntity.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/SkillModule/Runtime/Aoe/AoeExecute.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CharacterModule/Runtime/Framework/Base/UnitCoreEntity.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/NumericModule/Runtime/FrameBase/Component/NumericComponent.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/NumericModule/Runtime/FrameBase/Component/CharacterNumericComponent.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CharacterModule/Runtime/Framework/CharacterEntity.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/GameCenter/GameCenter.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CharacterModule/Runtime/Framework/UnitBindManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CharacterModule/Runtime/Framework/UnitBindPoint.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CharacterModule/Runtime/UnitBindInfo/UnitBindEnumType.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/AbilityModule/common/AbilityTrackEditor.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CharacterModule/Runtime/UnitBindInfo/UnitBindConstDefine.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CharacterModule/Runtime/UnitBindInfo/UnitBindPoint.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CharacterModule/Runtime/UnitBindInfo/UnitBindManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CharacterModule/Runtime/Framework/UnitCharacterEntity.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CharacterModule/Runtime/Framework/PlayerEntity.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CharacterModule/Runtime/Framework/PlayerSystemEntity.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/AbilityModule/Runtime/Framework/BattleEntity.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="2Nj2EDmJL3fSZhj6XVwZHsvyxwE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34994584" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/ShockAsset" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/ShockAsset" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7654bdc5-9bc6-4426-b57d-c1c37f5b03cd" name="Default Changelist" comment="" />
+      <created>1680163057589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680163057589</updated>
+      <workItem from="1680163070657" duration="2268000" />
+      <workItem from="1680169201719" duration="22461000" />
+      <workItem from="1680489275467" duration="15208000" />
+      <workItem from="1693228446459" duration="3030000" />
+      <workItem from="1702957070219" duration="5283000" />
+      <workItem from="1702971664441" duration="44599000" />
+      <workItem from="1703471707854" duration="53948000" />
+      <workItem from="1704186333453" duration="1052000" />
+      <workItem from="1704425404610" duration="13161000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
